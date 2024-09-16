@@ -12,7 +12,7 @@ pipeline
             }
         }
 
-        stage('Test') 
+        stage('update my this part') 
         {
             steps 
             {
@@ -20,7 +20,7 @@ pipeline
             }
         }
 
-        stage('update my this part') 
+        stage('hello  kolavari webhook ') 
         {
             steps 
             {
